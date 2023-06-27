@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/michaelkhanda/Desktop/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/michaelkhanda/Desktop/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/michaelkhanda/Desktop/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/Users/michaelkhanda/Desktop/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache
